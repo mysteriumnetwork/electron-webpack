@@ -2,6 +2,7 @@
   "name": "electron-webpack",
   "private": true,
   "license": "MIT",
+  "version": "2.8.3",
   "author": "Vladimir Krivosheev <develar@gmail.com>",
   "scripts": {
     "compile": "cross-env ts-babel packages/electron-webpack test && yarn schema",
